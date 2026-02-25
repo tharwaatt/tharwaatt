@@ -41,8 +41,8 @@ I've found my next frontier in **Rust** — its memory safety guarantees and zer
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="[https://github-readme-stats.vercel.app/api?username=tharwaatt&show_icons=true&theme=radical&hide_border=true](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtharwaatt%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue)" height="150" />
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=tharwaatt&layout=compact&theme=radical&hide_border=true](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dtharwaatt%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue)" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tharwaatt&show_icons=true&theme=radical&hide_border=true" height="150" alt="Tharwat's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharwaatt&layout=compact&theme=radical&hide_border=true" height="150" alt="Tharwat's Languages" />
 </p>
 
 
