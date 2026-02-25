@@ -23,6 +23,6 @@ I build web interfaces by day and explore the depths of systems programming by n
 
 I've found my next frontier in **Rust** — its memory safety guarantees and zero-cost abstractions resonate deeply with how I think about software. I'm actively building within its ecosystem with a clear goal.
 
-**Evolving into a full-stack engineer who leverages Rust's safety and speed** through [Dioxus](https://dioxuslabs.com/) and native system-level integrations — closing the loop between the UI and the machine.
+**Evolving into a full-stack engineer who leverages Rust's safety and speed** through **Dioxus** and native system-level integrations — closing the loop between the UI and the machine.
 
 ---
