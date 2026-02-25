@@ -28,8 +28,6 @@ I've found my next frontier in **Rust** — its memory safety guarantees and zer
 **Evolving into a full-stack engineer who leverages Rust's safety and speed** through [Dioxus](https://dioxuslabs.com/) and native system-level integrations — closing the loop between the UI and the machine.
 ---
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tharwaatt&show_icons=true&theme=radical&hide_border=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharwaatt&layout=compact&theme=radical&hide_border=true" height="150" />
-</p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tharwaatt&theme=radical&show_icons=true&hide_border=true&count_private=true)](https://github.com/tharwaatt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharwaatt&theme=radical&layout=compact&hide_border=true)](https://github.com/tharwaatt)
 ---
