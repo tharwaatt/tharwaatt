@@ -2,7 +2,7 @@
 **Front-end Engineer** · Systems Programming Enthusiast · Rust Advocate
 ---
 ## About Me
-I build high-performance web interfaces by day and explore the depths of systems programming by night. My curiosity doesn't stop at the browser — I care about what happens beneath the abstraction layers, and I'm on a mission to bridge the gap between modern web development and low-level performance.
+I build web interfaces by day and explore the depths of systems programming by night. My curiosity doesn't stop at the browser — I care about what happens beneath the abstraction layers, and I'm on a mission to bridge the gap between modern web development and low-level performance.
 > *"I love the machine, and I love the art of telling it what to do."*
 ---
 ## 🛠 Tech Stack
