@@ -1,13 +1,11 @@
 **Frontend Dev** | **Rust lover** 
 ---
 
-I'm simple Man who loves **coding for the sake of coding**, started my journey in the front-end, vibing with JS, TS, React, and Next.js.
-
-Right now, I'm spending my time exploring Rust and low-level system programming to see how things actually work under the surface. 🦀
+I'm simple Man who loves **coding for the sake of coding**.
+started my journey in the front-end, vibing with JS, TS, React, and Next.js.
+Right now, I'm spending my time exploring Rust and low-level system programming.
   
 ---
-## 🛠 Tech Stack
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
