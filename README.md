@@ -1,10 +1,9 @@
-**Frontend Dev** | Just a nerd who loves **coding for the sake of coding**. 💻✨
+**Frontend Dev** | **Rust lover** 
 ---
 
-* 🦀 **Current Obsession:** Learning, exploring **Rust**.
+I'm simple Man who loves **coding for the sake of coding**, started my journey in the front-end, vibing with JS, TS, React, and Next.js.
 
-* I've found my next frontier in **Rust** — its memory safety guarantees and zero-cost abstractions resonate deeply with how I think about software. I'm actively building within its ecosystem with a clear goal: **Evolving into a full-stack engineer who leverages Rust's safety and speed** through **Dioxus** and native system-level integrations — closing the loop between the UI and the machine.
-
+Right now, I'm spending my time exploring Rust and low-level system programming to see how things actually work under the surface. 🦀
   
 ---
 ## 🛠 Tech Stack
