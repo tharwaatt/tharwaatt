@@ -3,7 +3,7 @@
 
 I'm simple Man who loves **coding for the sake of coding**.
 started my journey in the front-end, vibing with JS, TS, React, and Next.js.
-Right now, I'm spending my time exploring Rust and low-level system programming.
+Right now, I'm learning and exploring Rust and low-level system programming.
   
 ---
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
