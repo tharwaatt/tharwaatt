@@ -1,7 +1,6 @@
 **Frontend Dev** | **Rust lover** 
 ---
 
-I'm simple Man who loves **coding for the sake of coding**.
 started my journey in the front-end, vibing with JS, TS, React, and Next.js.
 Right now, I'm learning and exploring Rust and low-level system programming.
   
