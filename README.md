@@ -1,4 +1,4 @@
-**Frontend Dev** | **Rust lover** 
+**Frontend Dev**
 ---
 
 started my journey in the front-end, vibing with JS, TS, React, and Next.js.
